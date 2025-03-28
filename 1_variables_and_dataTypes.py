@@ -14,10 +14,3 @@
 # - Boolean (bool)
 
 
-name = input("Enter Name")
-birthyear = input("Enter Birthyear")
-
-
-CURRENT_YEAR = 2025
-
-print(f"Hello {name} You are {CURRENT_YEAR - int(birthyear)} Years old \n")
