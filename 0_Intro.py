@@ -16,4 +16,5 @@
 # - Readability similar to English
 # - Strong community support
 
-print("Welcome to Python Programming!")
+
+print("Hello World")

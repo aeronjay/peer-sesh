@@ -1,9 +1,6 @@
 # 2. Operators and Expressions
 
-# Welcome to the next step in Python!
-# Let's learn about operators by solving a simple problem.
-
-# Step 1: Understanding Operators
+# Understanding Operators
 # Python supports different types of operators:
 # - Arithmetic Operators (+, -, *, /, //, %, **)
 # - Comparison Operators (==, !=, >, <, >=, <=)

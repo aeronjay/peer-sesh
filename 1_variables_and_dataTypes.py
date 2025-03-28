@@ -1,4 +1,4 @@
-# 1. Basic Syntax & Data Types
+# 1. Variables & Data Types
 
 # Welcome to your first Python lesson!
 # Let's explore Python's basic syntax and data types by solving a simple problem.
@@ -13,19 +13,11 @@
 # - String (str)
 # - Boolean (bool)
 
-name = "Tebats"
-age = 17
-height = 169.5
-is_college_student = True
 
-print(type(name))
-print(type(age))
-print(type(height))
-print(type(is_college_student))
+name = input("Enter Name")
+birthyear = input("Enter Birthyear")
 
 
+CURRENT_YEAR = 2025
 
-
-
-
-
+print(f"Hello {name} You are {CURRENT_YEAR - int(birthyear)} Years old \n")
